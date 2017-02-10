@@ -1,0 +1,56 @@
+Bash Bashful
+8 2 1965
+Long Road
+New York
+New York
+01101
+212-782-8000
+Friend
+Brave Balto
+6 2 1975
+Disney Road
+Orlando
+Florida
+35672
+415-782-5555
+Business
+Goof Goofy
+6 2 1965
+Disney Street
+Los Angles
+California
+91340
+215-782-9000
+Family
+Chelsea Tomek
+8 12 1999
+Kennedy Blvd
+Omaha
+Nebraska
+68172
+402-777-8888
+Friend
+Donald Duck
+6 10 1980
+Disney Street
+Orlando
+Florida
+11234
+622-873-8920
+Friend
+Shelly Malik
+8 12 2000
+Lincoln Drive
+Omaha
+Nebraska
+68131
+402-555-1212
+Family
+Super Man
+6 2 1980
+Disney Street
+
+California
+91340
+215-782-9000
+Friend
